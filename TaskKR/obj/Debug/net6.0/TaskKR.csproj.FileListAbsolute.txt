@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\bin\Debug\net6.0\TaskKR.exe
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\bin\Debug\net6.0\TaskKR.deps.json
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\bin\Debug\net6.0\TaskKR.runtimeconfig.json
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\bin\Debug\net6.0\TaskKR.dll
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\bin\Debug\net6.0\TaskKR.pdb
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\TaskKR.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\TaskKR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\TaskKR.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\TaskKR.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\TaskKR.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\TaskKR.dll
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\refint\TaskKR.dll
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\TaskKR.pdb
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\TaskKR.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\Контольная работа\Repo\TaskKR\obj\Debug\net6.0\ref\TaskKR.dll
